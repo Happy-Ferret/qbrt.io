@@ -1,0 +1,13 @@
+*.*log
+*.crt
+*.key
+*.pem
+.*_packages
+.*cache
+.DS_Store
+._*
+.env*
+.hashes*.json
+.sw*
+_site
+node_modules
