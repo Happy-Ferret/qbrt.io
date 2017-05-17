@@ -9,5 +9,7 @@
 .env*
 .hashes*.json
 .sw*
+.tmp-*
 _site
+index-*
 node_modules

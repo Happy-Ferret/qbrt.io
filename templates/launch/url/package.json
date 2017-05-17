@@ -1,0 +1,16 @@
+{
+  "name": "${name}",
+  "bin": "index.js",
+  "main": "index.js",
+  "dependencies": {
+    "qbrt": "^0.1.5"
+  },
+  "pkg": {
+    "assets": [
+      "index.js"
+    ],
+    "targets": [
+      "node7"
+    ]
+  }
+}

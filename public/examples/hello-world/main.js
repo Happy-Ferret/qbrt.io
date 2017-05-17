@@ -27,4 +27,4 @@ if (Services.appinfo.OS === 'Darwin') {
 console.log('Hello, World!');
 
 const window = Services.ww.openWindow(null, WINDOW_URL, '_blank', WINDOW_FEATURES, null);
-Runtime.openDevTools(window);
+// Runtime.openDevTools(window);

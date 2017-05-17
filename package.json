@@ -9,9 +9,14 @@
     "url": "https://github.com/cvan/qbrt.io/issues"
   },
   "dependencies": {
+    "bud": "^4.0.27",
     "express": "^4.15.2",
+    "fetch-manifest": "^1.2.3",
+    "fs-extra": "^3.0.1",
+    "lodash.merge": "^4.6.0",
     "morgan": "^1.8.1",
     "mz": "^2.6.0",
+    "node-static": "^0.7.9",
     "pkg": "^3.0.4",
     "spdy": "^3.4.4"
   },
